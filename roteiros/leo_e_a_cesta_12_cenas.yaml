@@ -1,0 +1,56 @@
+cenas:
+- imagem: assets/imagens/episodio01/cena_01.jpg
+  narracao: Em uma manhã ensolarada, o Bosque Lumiar despertava cheio de cores. As flores balançavam com o vento,
+    e os passarinhos cantavam entre as árvores. Léo, uma raposinha muito curiosa, caminhava pela trilha observando
+    tudo ao redor.
+  movimento: zoom_in
+- imagem: assets/imagens/episodio01/cena_02.jpg
+  narracao: Ele adorava descobrir coisas novas! De repente, sentiu um cheirinho delicioso. Era doce, fresquinho
+    e parecia vir de algum lugar bem pertinho. Léo seguiu o perfume com passos cuidadosos. O que será que ele encontraria?
+  movimento: zoom_out
+- imagem: assets/imagens/episodio01/cena_03.jpg
+  narracao: Atrás de uma árvore grande, Léo encontrou uma cesta de piquenique. Dentro dela havia maçãs vermelhas,
+    bananas amarelinhas, uvas e outras frutas apetitosas. Sua barriguinha roncou. Que vontade de provar uma maçã!
+  movimento: zoom_in
+- imagem: assets/imagens/episodio01/cena_04.jpg
+  narracao: Léo se aproximou e esticou a patinha. Mas então parou. Aquela cesta estava ali, tão bem arrumada...
+    Será que tinha dono? Léo olhou para um lado e para o outro. Não viu ninguém. Mesmo assim, ficou pensando no
+    que deveria fazer.
+  movimento: zoom_out
+- imagem: assets/imagens/episodio01/cena_05.jpg
+  narracao: Foi quando Luna, a coelhinha de laço roxo, apareceu pela trilha. Bento, o passarinho azul com sua bolsinha,
+    vinha logo atrás. Os dois estavam felizes, pois haviam preparado um piquenique para passar a manhã com os amigos.
+  movimento: zoom_in
+- imagem: assets/imagens/episodio01/cena_06.jpg
+  narracao: Luna sorriu ao ver Léo perto da cesta. Olá, Léo! Você encontrou nosso lanche! Bento bateu as asinhas
+    e contou que tinham deixado a cesta à sombra enquanto buscavam uma toalha para o piquenique. Agora tudo fazia
+    sentido!
+  movimento: zoom_out
+- imagem: assets/imagens/episodio01/cena_07.jpg
+  narracao: 'Léo abaixou um pouquinho as orelhas. Ele contou aos amigos que tinha sentido vontade de pegar uma fruta
+    antes de saber a quem pertencia a cesta. Desculpem, amigos. Eu quase peguei uma maçã sem perguntar. Luna respondeu
+    com carinho: Obrigada por contar a verdade, Léo.'
+  movimento: zoom_in
+- imagem: assets/imagens/episodio01/cena_08.jpg
+  narracao: 'Quando alguma coisa não é nossa, é importante pedir permissão. Bento concordou: E perguntar é muito
+    fácil! Léo respirou aliviado e perguntou: Posso comer uma maçã com vocês? Claro que sim!, responderam os amigos.'
+  movimento: zoom_out
+- imagem: assets/imagens/episodio01/cena_09.jpg
+  narracao: Os três estenderam a toalha em um cantinho florido do bosque e organizaram as frutas. Luna dividiu as
+    bananas, Bento separou as uvas e Léo ajudou a colocar as maçãs sobre a toalha. Cada um escolheu sua fruta preferida.
+  movimento: zoom_in
+- imagem: assets/imagens/episodio01/cena_10.jpg
+  narracao: Entre risadas e histórias, descobriram que dividir o lanche deixava tudo ainda mais gostoso. Léo ofereceu
+    uma maçã a Luna, e Bento agradeceu com um alegre piu-piu! Ninguém ficou de fora. O piquenique virou uma verdadeira
+    festa de amizade.
+  movimento: zoom_out
+- imagem: assets/imagens/episodio01/cena_11.jpg
+  narracao: 'Quando o sol começou a descer atrás das árvores, os amigos guardaram a cesta e admiraram o céu dourado.
+    Léo sorriu. Naquele dia, ele tinha aprendido uma lição importante: antes de pegar algo que pertence a outra
+    pessoa, devemos pedir permissão.'
+  movimento: zoom_in
+- imagem: assets/imagens/episodio01/cena_12.jpg
+  narracao: E, quando compartilhamos com carinho, a alegria fica ainda maior. Luna e Bento concordaram. Juntos,
+    voltaram pela trilha do Bosque Lumiar, felizes por mais uma aventura. E você? Já pediu permissão ou dividiu
+    algo com um amigo hoje? Até a próxima história!
+  movimento: zoom_out

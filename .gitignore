@@ -1,0 +1,26 @@
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Vídeos renderizados
+saida/
+*.mp4
+
+# Cache de narração
+assets/audios/
+
+# Configurações locais e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos de backup
+*.zip

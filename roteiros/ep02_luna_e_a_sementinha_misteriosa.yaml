@@ -1,0 +1,49 @@
+cenas:
+- imagem: assets/imagens/ep02_cena_01.png
+  narracao: Numa manhã ensolarada, o Bosque Lumiar estava cheio de cores e passarinhos cantando ao longe. Luna,
+    a coelhinha, passeava devagar, observando cada flor e cada folha pelo caminho.
+  movimento: zoom_in
+- imagem: assets/imagens/ep02_cena_02.png
+  narracao: 'De repente, algo pequenininho chamou sua atenção. Perto de uma folha caída, havia uma sementinha marrom.
+    Luna a pegou com cuidado e perguntou: O que será que pode nascer daqui?'
+  movimento: zoom_in
+- imagem: assets/imagens/ep02_cena_03.png
+  narracao: Luna imaginou uma flor enorme, com pétalas de todas as cores. Ficou tão animada que decidiu plantar
+    a semente ali mesmo, numa clareira iluminada pelo sol.
+  movimento: zoom_out
+- imagem: assets/imagens/ep02_cena_04.png
+  narracao: Com uma pazinha, ela abriu um buraquinho na terra macia. Colocou a sementinha lá dentro e a cobriu delicadamente.
+    Depois, deu dois passinhos para trás e esperou.
+  movimento: zoom_in
+- imagem: assets/imagens/ep02_cena_05.png
+  narracao: 'Um minuto passou. Depois, outro. Mas nada aconteceu. Luna inclinou as orelhas e cochichou: Sementinha,
+    você está me ouvindo? Por que ainda não apareceu?'
+  movimento: estatico
+- imagem: assets/imagens/ep02_cena_06.png
+  narracao: Foi então que Léo apareceu pela trilha. Ao ver a amiga olhando para o chão, perguntou o que havia acontecido.
+    Luna explicou que tinha plantado uma semente, mas a flor estava demorando demais.
+  movimento: zoom_out
+- imagem: assets/imagens/ep02_cena_07.png
+  narracao: 'Léo sorriu e disse: Luna, uma semente não vira flor de uma hora para outra. Ela precisa de luz, de
+    água e, principalmente, de tempo. Luna respirou fundo e decidiu tentar.'
+  movimento: zoom_in
+- imagem: assets/imagens/ep02_cena_08.png
+  narracao: 'Logo, Bento chegou com um pequeno regador. Os três amigos colocaram só um pouquinho de água na terra.
+    Bento lembrou: Água é importante, mas não precisamos encharcar a sementinha!'
+  movimento: zoom_out
+- imagem: assets/imagens/ep02_cena_09.png
+  narracao: Nos dias seguintes, Luna voltou à clareira. Observou a terra, conferiu a luz do sol e regou quando foi
+    preciso. Às vezes, queria apressar tudo, mas se lembrava do conselho dos amigos.
+  movimento: zoom_in
+- imagem: assets/imagens/ep02_cena_10.png
+  narracao: Até que, numa manhã, Luna viu uma pontinha verde saindo do chão. Era um brotinho! Ela chamou Léo e Bento,
+    que correram para ver a novidade. Os três comemoraram baixinho, sem machucar a plantinha.
+  movimento: zoom_in
+- imagem: assets/imagens/ep02_cena_11.png
+  narracao: 'Com mais alguns dias de cuidado, o brotinho cresceu e abriu uma linda flor amarela. Luna ficou encantada.
+    Agora ela entendia: não era preciso ter pressa para ver algo bonito acontecer.'
+  movimento: zoom_out
+- imagem: assets/imagens/ep02_cena_12.png
+  narracao: Luna agradeceu aos amigos e prometeu continuar cuidando daquela flor. No Bosque Lumiar, ela descobriu
+    que paciência e carinho ajudam a vida a florescer. Pequenas aventuras, grandes descobertas!
+  movimento: zoom_out

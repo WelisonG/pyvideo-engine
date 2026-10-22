@@ -1,0 +1,16 @@
+cenas:
+- imagem: assets/imagens/episodio01/cena_01.jpg
+  narracao: Em uma manhã ensolarada, o Bosque Lumiar despertava cheio de cores. As
+    flores balançavam com o vento, e os passarinhos cantavam entre as árvores. Léo,
+    uma raposinha muito curiosa, caminhava pela trilha observando tudo ao redor.
+  movimento: zoom_in
+- imagem: assets/imagens/episodio01/cena_02.jpg
+  narracao: Ele adorava descobrir coisas novas! De repente, sentiu um cheirinho delicioso.
+    Era doce, fresquinho e parecia vir de algum lugar bem pertinho. Léo seguiu o perfume
+    com passos cuidadosos. O que será que ele encontraria?
+  movimento: zoom_out
+- imagem: assets/imagens/episodio01/cena_03.jpg
+  narracao: Atrás de uma árvore grande, Léo encontrou uma cesta de piquenique. Dentro
+    dela havia maçãs vermelhas, bananas amarelinhas, uvas e outras frutas apetitosas.
+    Sua barriguinha roncou. Que vontade de provar uma maçã!
+  movimento: zoom_in

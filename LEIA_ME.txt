@@ -1,0 +1,10 @@
+EPISÓDIO 1 — 12 CENAS
+
+Extraia as pastas assets e roteiros em C:\Projetos\bosque-lumiar.
+
+Execute:
+.venv\Scripts\python.exe gerador.py roteiros/leo_e_a_cesta_12_cenas.yaml --saida saida/leo_e_a_cesta_12_cenas.mp4
+
+As imagens são recortes do storyboard com os números removidos por enquadramento; para preservar proporções, têm preenchimento de fundo desfocado. O roteiro original foi dividido em 12 trechos sem reescrever o texto.
+
+O gerador usa duração real de cada narração. O tempo final deve ficar próximo dos 3min03s anteriores, podendo variar ligeiramente.
